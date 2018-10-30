@@ -26,5 +26,9 @@
     "webpack-dev-server": "2.9.3"
   },
   "author": "Alejandro Terrill",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "16.6.0",
+    "react-dom": "16.6.0"
+  }
 }
